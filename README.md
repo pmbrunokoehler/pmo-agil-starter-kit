@@ -18,14 +18,14 @@ O kit tem três camadas que se complementam:
 
 | Etapa | Conteúdo |
 |-------|----------|
-| [01 — Fundação do PMO](guia/01-fundacao-do-pmo.md) | Por que existe, qual o mandato, qual o modelo operacional |
-| [02 — Intake e priorização](guia/02-intake-e-priorizacao.md) | Como o trabalho entra e como é priorizado |
-| [03 — Governança e cadências](guia/03-governanca-e-cadencias.md) | Os ritos que mantêm o portfólio sob controle |
-| [04 — Reporting executivo](guia/04-reporting-executivo.md) | O que e como reportar à liderança |
+| [01 — Fundação do PMO](01.guia/guia-01-fundacao.md) | Por que existe, qual o mandato, qual o modelo operacional |
+| [02 — Intake e priorização](01.guia/guia-02-intake.md) | Como o trabalho entra e como é priorizado |
+| [03 — Governança e cadências](01.guia/guia-03-governanca.md) | Os ritos que mantêm o portfólio sob controle |
+| [04 — Reporting executivo](01.guia/guia-04-reporting.md) | O que e como reportar à liderança |
 
-**🧰 Templates** — os artefatos prontos para usar, na pasta [`templates/`](templates/): canvas de priorização, fluxo de intake, tracker de OKRs, matriz de riscos de portfólio e modelo de reporting executivo.
+**🧰 Templates** — os artefatos prontos para usar, na pasta [`02.templates/`](02.templates/): canvas de priorização, fluxo de intake, tracker de OKRs, matriz de riscos de portfólio e modelo de reporting executivo.
 
-**🤖 Prompts de IA** — uma camada de prompts por etapa, na pasta [`prompts-ia/`](prompts-ia/), para acelerar cada fase da estruturação e operação do PMO usando IA.
+**🤖 Prompts de IA** — uma camada de prompts por etapa, na pasta [`03.prompts-ia/`](03.prompts-ia/), para acelerar cada fase da estruturação e operação do PMO usando IA.
 
 ## Como usar
 
